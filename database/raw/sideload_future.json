@@ -3450,22 +3450,6 @@
   },
   {
     "sources": [
-      "https://anilist.co/anime/213929"
-    ],
-    "title": "7-nin no Nemuri Hime",
-    "type": "TV",
-    "status": "UPCOMING",
-    "animeSeason": {
-      "season": "TBA",
-      "year": null
-    },
-    "synonyms": [
-      "7\u4eba\u306e\u7720\u308a\u59eb",
-      "Seven Sleeping Beauties"
-    ]
-  },
-  {
-    "sources": [
       "https://7-sleepingbeauties.com",
       "https://anidb.net/anime/20179",
       "https://anilist.co/anime/213929",
@@ -3481,7 +3465,7 @@
       "https://www.livechart.me/anime/13727",
       "https://www.world-art.ru/animation/animation.php?id=12957"
     ],
-    "title": "7-nin no Nemurihime",
+    "title": "7-nin no Nemuri Hime",
     "type": "TV",
     "status": "UPCOMING",
     "animeSeason": {
