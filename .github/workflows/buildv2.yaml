@@ -23,9 +23,9 @@ concurrency:
   cancel-in-progress: true
 
 env:
-  GIT_AUTHOR_NAME: Natsu Tadama
+  GIT_AUTHOR_NAME: Marpogi
   GIT_AUTHOR_EMAIL: nattadasu@nattadasu.my.id
-  GIT_COMMITTER_NAME: Natsu Tadama
+  GIT_COMMITTER_NAME: Marpogi
   GIT_COMMITTER_EMAIL: nattadasu@nattadasu.my.id
   UV_FROZEN: "1"
 
