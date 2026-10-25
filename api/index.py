@@ -130,7 +130,7 @@ def after_request(response: Response) -> Response:
 def index():
     """Index route"""
     # redirect user to GitHub repo
-    return redirect("https://github.com/nattadasu/animeApi")
+    return redirect("https://github.com/mar23pogi-dotcom/animeApi")
 
 
 @app.route("/status", methods=["GET"])
@@ -298,7 +298,7 @@ def redirect_to_github(goto: str) -> wzResponse:
     :rtype: wzResponse
     """
     github_url = (
-        f"https://raw.githubusercontent.com/nattadasu/animeApi/v3/database/{goto}.json"
+        f"https://raw.githubusercontent.com/mar23pogi-dotcom/animeApi/v3/database/{goto}.json"
     )
     return redirect(github_url)
 
