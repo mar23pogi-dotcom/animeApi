@@ -9,7 +9,7 @@ info:
     name: MIT
     url: "https://github.com/mar23pogi-dotcom/animeApi/blob/v3/LICENSE"
 servers:
-  - url: https://animeapi.my.id
+  - url: https://github.com/mar23pogi-dotcom/animeApi
     description: Production server
   - url: http://localhost:3000
     description: Local development server
