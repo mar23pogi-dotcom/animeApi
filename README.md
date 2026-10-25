@@ -232,7 +232,7 @@ alias cheatsheet as well.
 So far, AnimeAPI has indexed data from 22 databases, with details as follows:
 
 <!-- updated -->
-Last updated: 25 October 2026 07:45:28 UTC
+Last updated: 25 October 2026 09:44:29 UTC
 <!-- /updated -->
 
 <!-- counters -->
@@ -250,11 +250,11 @@ Last updated: 25 October 2026 07:45:28 UTC
 | Kitsu              |     22211 |
 | Letterboxd         |      1264 |
 | LiveChart          |     12399 |
-| MyAnimeList        |     30778 |
+| MyAnimeList        |     30779 |
 | Nautiljon          |      9273 |
 | Notify.moe         |     16774 |
-| Otak Otaku         |      3133 |
-| Shikimori          |     30778 |
+| Otak Otaku         |      3135 |
+| Shikimori          |     30779 |
 | Shoboi/Syobocal    |      6290 |
 | Silver Yasha       |      5455 |
 | SIMKL              |     14509 |
@@ -262,7 +262,7 @@ Last updated: 25 October 2026 07:45:28 UTC
 | The TVDB           |      5317 |
 | Trakt              |      7307 |
 |                    |           |
-| **Total**          | **40777** |
+| **Total**          | **40778** |
 <!-- /counters -->
 
 ## Usage
@@ -355,8 +355,8 @@ GET /status
 {
   "mainrepo": "https://github.com/nattadasu/animeApi/tree/v3",
   "updated": {
-    "timestamp": 1792914328,
-    "iso": "2026-10-25T07:45:28.926073+00:00"
+    "timestamp": 1792921469,
+    "iso": "2026-10-25T09:44:29.400789+00:00"
   },
   "contributors": [
     "nattadasu",
@@ -393,18 +393,18 @@ GET /status
     "kitsu": 22211,
     "letterboxd": 1264,
     "livechart": 12399,
-    "myanimelist": 30778,
+    "myanimelist": 30779,
     "nautiljon": 9273,
     "notify": 16774,
-    "otakotaku": 3133,
-    "shikimori": 30778,
+    "otakotaku": 3135,
+    "shikimori": 30779,
     "shoboi": 6290,
     "silveryasha": 5455,
     "simkl": 14509,
     "themoviedb": 8439,
     "thetvdb": 5317,
     "trakt": 7307,
-    "total": 40777
+    "total": 40778
   },
   "endpoints": {
     "$comment": "The endpoints are stated in Python regex format. Platform aliases supported for direct lookup for platform specific endpoints (see ?P<alias> in regex).",
@@ -484,7 +484,7 @@ GET /updated
 
 <!-- updated-txt -->
 ```txt
-Updated on 10/25/2026 07:45:28 UTC
+Updated on 10/25/2026 09:44:29 UTC
 ```
 <!-- /updated-txt -->
 
