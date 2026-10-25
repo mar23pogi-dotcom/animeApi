@@ -1,0 +1,9 @@
+{
+  "name": "animeapi",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Anime relation mapping API",
+  "scripts": {
+    "check": "python -m compileall api generator scripts"
+  }
+}
