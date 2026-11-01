@@ -1231,7 +1231,7 @@
     ],
     "title": "Hitori Tsuma",
     "type": "OVA",
-    "status": "UPCOMING",
+    "status": "ONGOING",
     "animeSeason": {
       "season": "FALL",
       "year": 2026
@@ -1243,7 +1243,8 @@
   },
   {
     "sources": [
-      "https://anilist.co/anime/217941"
+      "https://anilist.co/anime/217941",
+      "https://myanimelist.net/anime/65234"
     ],
     "title": "Hitozuma to Netorare Ryokou",
     "type": "OVA",
@@ -1259,6 +1260,7 @@
   },
   {
     "sources": [
+      "https://anilist.co/anime/218938",
       "https://myanimelist.net/anime/65184",
       "https://shikimori.one/animes/65184",
       "https://www.livechart.me/anime/13863"
@@ -1271,8 +1273,11 @@
       "year": 2026
     },
     "synonyms": [
+      "Hotaru no Yomeiri Mini Anime",
       "Les Noces des Lucioles",
-      "\u30db\u30bf\u30eb\u306e\u5ac1\u5165\u308a \u30df\u30cb\u30a2\u30cb\u30e1"
+      "\u30db\u30bf\u30eb\u306e\u5ac1\u5165\u308a \u3061\u3087\u3044\u305f\u3057",
+      "\u30db\u30bf\u30eb\u306e\u5ac1\u5165\u308a \u30df\u30cb\u30a2\u30cb\u30e1",
+      "\u30db\u30bf\u30eb\u306e\u5ac1\u5165\u308a\u30df\u30cb\u30a2\u30cb\u30e1"
     ],
     "releaseDate": "2026-10-12T09:00:00.000000000Z"
   },
@@ -1654,6 +1659,23 @@
   },
   {
     "sources": [
+      "https://anilist.co/anime/218931"
+    ],
+    "title": "Sakura Saku Chiru Hanabira",
+    "type": "OVA",
+    "status": "UPCOMING",
+    "animeSeason": {
+      "season": "FALL",
+      "year": 2026
+    },
+    "synonyms": [
+      "\u3055\u304f\u3089\u88c2\u30af \u6563\u30eb\u82b1\u3073\u3089"
+    ],
+    "releaseDate": "2026-12-25"
+  },
+  {
+    "sources": [
+      "https://anilist.co/anime/218942",
       "https://www.livechart.me/anime/13836"
     ],
     "title": "Sylvanian Families: Freya no Colorful Every Day",
@@ -1666,12 +1688,14 @@
     "synonyms": [
       "Calico Critters",
       "Calico Critters of Cloverleaf Corners",
-      "Sylvanian Families: Freya no Piece of Secrets"
+      "Sylvanian Families: Freya no Piece of Secrets",
+      "\u30b7\u30eb\u30d0\u30cb\u30a2\u30d5\u30a1\u30df\u30ea\u30fc \u30d5\u30ec\u30a2\u306e\u30ab\u30e9\u30d5\u30eb\u30fb\u30a8\u30d6\u30ea\u30c7\u30a4"
     ],
     "releaseDate": "2026-10-01T10:19:00.000000000Z"
   },
   {
     "sources": [
+      "https://anidb.net/anime/20425",
       "https://anilist.co/anime/215835",
       "https://kitsu.app/anime/51017",
       "https://myanimelist.net/anime/64867",
@@ -1704,12 +1728,13 @@
       "https://myanimelist.net/anime/218493",
       "https://myanimelist.net/anime/65209",
       "https://shikimori.one/animes/65209",
+      "https://space.bilibili.com/zh-Hans/32741563/lists/9450624",
       "https://twitter.com/feirenzai_OS",
       "https://www.livechart.me/anime/13872"
     ],
     "title": "Wan Sheng Jie: Gubao de Mimi",
     "type": "TV",
-    "status": "UPCOMING",
+    "status": "FINISHED",
     "animeSeason": {
       "season": "FALL",
       "year": 2026
@@ -1741,6 +1766,8 @@
       "year": 2026
     },
     "synonyms": [
+      "Welcome to Yu-hachi\u2019s House!",
+      "YU-SANCHi! from YU-HACHi",
       "Yu-san Chi! from Yu-hachi",
       "Yuusanchi! from Yuu-hachi",
       "\u3067\u304b\u3044\u306f\u3061",
@@ -2276,6 +2303,33 @@
   },
   {
     "sources": [
+      "https://anidb.net/anime/20458",
+      "https://kitsu.app/anime/51154",
+      "https://myanimelist.net/anime/65141",
+      "https://shikimori.io/animes/65141-kuang-wang-2/watch",
+      "https://shikimori.one/animes/65141",
+      "https://v.qq.com/x/cover/mzc00200w9b1yx3/e410224vip6.html",
+      "https://www.world-art.ru/cinema/cinema.php?id=132065"
+    ],
+    "title": "Kuang Wang 2",
+    "type": "TV",
+    "status": "FINISHED",
+    "animeSeason": {
+      "season": "TBA",
+      "year": 2026
+    },
+    "synonyms": [
+      "Asura 2",
+      "Journey to the West: The Mad King 2",
+      "Kuang Wang 2nd Season",
+      "Westward: Asura 2",
+      "\u72c2\u738b \u7b2c2\u5b63"
+    ],
+    "releaseDate": "2026-10-22"
+  },
+  {
+    "sources": [
+      "https://anilist.co/anime/214893",
       "https://kitsu.app/anime/50889",
       "https://myanimelist.net/anime/64786"
     ],
@@ -2330,7 +2384,7 @@
     ],
     "title": "Luo Xiaohei Zhanji: Xueqian Pian",
     "type": "TV",
-    "status": "UPCOMING",
+    "status": "ONGOING",
     "animeSeason": {
       "season": "TBA",
       "year": 2026
@@ -2365,6 +2419,7 @@
   },
   {
     "sources": [
+      "https://anilist.co/anime/216782",
       "https://kitsu.app/anime/51109",
       "https://myanimelist.net/anime/65033",
       "https://shikimori.one/animes/65033",
@@ -3012,6 +3067,23 @@
   },
   {
     "sources": [
+      "https://anilist.co/anime/219080",
+      "https://myanimelist.net/anime/65281"
+    ],
+    "title": "Inaka no Hitozuma-tachi The Animation",
+    "type": "OVA",
+    "status": "UPCOMING",
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2027
+    },
+    "synonyms": [
+      "\u7530\u820e\u306e\u4eba\u59bb\u305f\u3061 The Animation"
+    ],
+    "releaseDate": "2027-01-29"
+  },
+  {
+    "sources": [
       "https://anidb.net/anime/20403",
       "https://myanimelist.net/anime/64744",
       "https://www.livechart.me/anime/13757"
@@ -3028,7 +3100,8 @@
   },
   {
     "sources": [
-      "https://anilist.co/anime/218798"
+      "https://anilist.co/anime/218798",
+      "https://myanimelist.net/anime/65270"
     ],
     "title": "Kenja Time no Sukkiri Hitozuma Bouken-ki!",
     "type": "OVA",
@@ -3101,7 +3174,24 @@
   },
   {
     "sources": [
-      "https://anilist.co/anime/218771"
+      "https://anilist.co/anime/212960"
+    ],
+    "title": "Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru Ichiban Sukebe na Etou-san",
+    "type": "OVA",
+    "status": "UPCOMING",
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2027
+    },
+    "synonyms": [
+      "\u6821\u5185\u3067\u4e00\u756a\u53ef\u611b\u304f\u3066\u4e00\u756a\u304a\u3063\u3071\u3044\u304c\u30c7\u30ab\u304f\u3066\u4e00\u756a\u30aa\u30ab\u30ba\u306b\u3055\u308c\u3066\u308b\u4e00\u756a\u30b9\u30b1\u30d9\u306a\u6c5f\u85e4\u3055\u3093"
+    ],
+    "releaseDate": "2027-02-05"
+  },
+  {
+    "sources": [
+      "https://anilist.co/anime/218771",
+      "https://myanimelist.net/anime/65269"
     ],
     "title": "Mama Bokkui",
     "type": "OVA",
@@ -3163,6 +3253,22 @@
       "\u30e0\u30eb\u30b7\u30a8\u30e9\u30b4"
     ],
     "releaseDate": "2027-01-01T00:00:00.000000000Z"
+  },
+  {
+    "sources": [
+      "https://anilist.co/anime/219237"
+    ],
+    "title": "Pole Princess!!: Croix du Nord",
+    "type": "MOVIE",
+    "status": "UPCOMING",
+    "animeSeason": {
+      "season": "WINTER",
+      "year": 2027
+    },
+    "synonyms": [
+      "\u30dd\u30fc\u30eb\u30d7\u30ea\u30f3\u30bb\u30b9!! -Croix du Nord-"
+    ],
+    "releaseDate": "2027-01-29"
   },
   {
     "sources": [
@@ -3298,6 +3404,32 @@
       "\u653e\u8ab2\u5f8c\u306e\u30a2\u30a4\u30c9\u30eb\u306b\u306f\u79d8\u5bc6\u304c\u3042\u308b"
     ],
     "releaseDate": "2027-04-01T00:00:00.000000000Z"
+  },
+  {
+    "sources": [
+      "https://anilist.co/anime/219243",
+      "https://en.wikipedia.org/wiki/Romelia_War_Chronicle#Anime",
+      "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%A1%E3%83%AA%E3%82%A2%E6%88%A6%E8%A8%98_%E3%80%9C%E9%AD%94%E7%8E%8B%E3%82%92%E5%80%92%E3%81%97%E3%81%9F%E5%BE%8C%E3%82%82%E4%BA%BA%E9%A1%9E%E3%82%84%E3%81%B0%E3%81%9D%E3%81%86%E3%81%A0%E3%81%8B%E3%82%89%E8%BB%8D%E9%9A%8A%E7%B5%84%E7%B9%94%E3%81%97%E3%81%9F%E3%80%9C#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1",
+      "https://myanimelist.net/anime/65298",
+      "https://romelia-senki.com",
+      "https://shikimori.one/animes/65298",
+      "https://twitter.com/romelia_senki"
+    ],
+    "title": "Romelia Senki Part 2",
+    "type": "TV",
+    "status": "UPCOMING",
+    "animeSeason": {
+      "season": "SPRING",
+      "year": 2027
+    },
+    "synonyms": [
+      "A History of the Romelia",
+      "Romelia Senki Part II",
+      "Romelia Senki: Forming a Military Organization Because Humanity Still Looks Screwed After Defeating the Demon King",
+      "Romelia Senki: Maou wo Taoshita Ato mo Jinrui Yabasou dakara Guntai Soshiki shita",
+      "\u30ed\u30e1\u30ea\u30a2\u6226\u8a18 \u301c\u9b54\u738b\u3092\u5012\u3057\u305f\u5f8c\u3082\u4eba\u985e\u3084\u3070\u305d\u3046\u3060\u304b\u3089\u8ecd\u968a\u7d44\u7e54\u3057\u305f\u301c \u7b2cII\u30af\u30fc\u30eb",
+      "\u30ed\u30e1\u30ea\u30a2\u6226\u8a18 \u7b2cII\u30af\u30fc\u30eb"
+    ]
   },
   {
     "sources": [
@@ -3506,6 +3638,22 @@
       "\u30ef\u30f3\u30d1\u30f3\u30de\u30f3 OVA 3 #03\u300c\u30be\u30f3\u30d3\u30de\u30f3\u3068\u30be\u30f3\u30d3\u30d1\u30cb\u30c3\u30af\u300d"
     ],
     "releaseDate": "2027-01-26T15:00:00.000000000Z"
+  },
+  {
+    "sources": [
+      "https://anilist.co/anime/219265"
+    ],
+    "title": "Shibatsuki Bukken",
+    "type": "TV",
+    "status": "UPCOMING",
+    "animeSeason": {
+      "season": "SUMMER",
+      "year": 2027
+    },
+    "synonyms": [
+      "Shiba Inu Rooms",
+      "\u30b7\u30d0\u3064\u304d\u7269\u4ef6"
+    ]
   },
   {
     "sources": [
@@ -3880,7 +4028,8 @@
     },
     "synonyms": [
       "Cardfight!! Vanguard New TV Anime",
-      "\u30ab\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8!! \u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 (\u65b0\u4f5cTV\u30a2\u30cb\u30e1)"
+      "\u30ab\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8!! \u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 (\u65b0\u4f5cTV\u30a2\u30cb\u30e1)",
+      "\u30ab\u30fc\u30c9\u30d5\u30a1\u30a4\u30c8!! \u30f4\u30a1\u30f3\u30ac\u30fc\u30c9 \u30d9\u30fc\u30eb\u30ea\u30d5\u30c8"
     ]
   },
   {
@@ -4094,6 +4243,7 @@
     "sources": [
       "https://anidb.net/anime/20254",
       "https://anilist.co/anime/214854",
+      "https://duo-anime.com",
       "https://en.wikipedia.org/wiki/Destiny_Unchain_Online#Anime",
       "https://myanimelist.net/anime/64751",
       "https://shikimori.one/animes/64751",
@@ -4113,7 +4263,9 @@
       "DUO",
       "Destiny Unchain Online: How I Became the Crimson Devil",
       "Destiny Unchain Online: Kyuuketsuki Shoujo to Natte",
-      "Yagate \"Aka no Maou\" to Yobareru you ni Narimashita"
+      "Yagate \"Aka no Maou\" to Yobareru you ni Narimashita",
+      "\u30c7\u30a3\u30b9\u30c6\u30a3\u30cb\u30fc \u30a2\u30f3\u30c1\u30a7\u30a4\u30f3 \u30aa\u30f3\u30e9\u30a4\u30f3",
+      "\u30c7\u30a3\u30fc\u30e6\u30fc\u30aa\u30fc"
     ],
     "releaseDate": "2026-08-06T00:00:00.000000000Z"
   },
@@ -4263,6 +4415,25 @@
       "\uff24\uff52\uff0e\uff33\uff34\uff2f\uff2e\uff25 \u7b2c4\u671f"
     ],
     "releaseDate": "2026-10-10T17:21:51.545404000Z"
+  },
+  {
+    "sources": [
+      "https://anilist.co/anime/218956",
+      "https://myanimelist.net/anime/65274",
+      "https://shikimori.one/animes/65274",
+      "https://twitter.com/precure_15th",
+      "https://www.toei-anim.co.jp/tv/dualshadow"
+    ],
+    "title": "Dual Shadow: Precure Villain Heroines",
+    "type": "TV",
+    "status": "UPCOMING",
+    "animeSeason": {
+      "season": "TBA",
+      "year": null
+    },
+    "synonyms": [
+      "\u30c7\u30e5\u30a2\u30eb\u30b7\u30e3\u30c9\u30a6 \uff5ePrecure Villain Heroines\uff5e"
+    ]
   },
   {
     "sources": [
@@ -4520,6 +4691,7 @@
       "https://anidb.net/anime/20255",
       "https://baike.baidu.com/item/\u8c37\u96e8\u8857\u540e\u5df7",
       "https://myanimelist.net/anime/64713",
+      "https://shikimori.io/animes/64713-guyu-jie-hou-xiang/watch",
       "https://shikimori.one/animes/64713",
       "https://v.qq.com/x/cover/mzc002006u77lmr.html",
       "https://www.world-art.ru/cinema/cinema.php?id=131602"
@@ -4585,6 +4757,29 @@
       "\ud5ec \ubaa8\ub4dc ~\ud30c\uace0\ub4e4\uae30 \uc88b\uc544\ud558\ub294 \uac8c\uc774\uba38\ub294 \ud3d0\uae09 \uc124\uc815 \uc774\uc138\uacc4\uc5d0\uc11c \ubb34\uc30d\ud55c\ub2e4~"
     ],
     "releaseDate": "2026-09-25T18:43:00.973501000Z"
+  },
+  {
+    "sources": [
+      "https://anilist.co/anime/219189",
+      "https://en.wikipedia.org/wiki/Hiragi-san's_House_of_Vampires#Anime",
+      "https://hiragihouse-anime.com",
+      "https://ja.wikipedia.org/wiki/%E6%9F%8A%E3%81%95%E3%82%93%E3%81%A1%E3%81%AE%E5%90%B8%E8%A1%80%E4%BA%8B%E6%83%85#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1",
+      "https://myanimelist.net/anime/65288",
+      "https://shikimori.one/animes/65288"
+    ],
+    "title": "Hiiragi-san Chi no Kyuuketsu Jijou",
+    "type": "TV",
+    "status": "UPCOMING",
+    "animeSeason": {
+      "season": "TBA",
+      "year": null
+    },
+    "synonyms": [
+      "Every Day in a Vampire Family",
+      "Hiragi-san's House of Vampires",
+      "Vampire Family Days",
+      "\u67ca\u3055\u3093\u3061\u306e\u5438\u8840\u4e8b\u60c5"
+    ]
   },
   {
     "sources": [
@@ -4823,6 +5018,33 @@
   },
   {
     "sources": [
+      "https://anilist.co/anime/218835",
+      "https://en.wikipedia.org/wiki/Our_Last_Crusade_or_the_Rise_of_a_New_World#Anime",
+      "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%9F%E3%81%A8%E5%83%95%E3%81%AE%E6%9C%80%E5%BE%8C%E3%81%AE%E6%88%A6%E5%A0%B4%E3%80%81%E3%81%82%E3%82%8B%E3%81%84%E3%81%AF%E4%B8%96%E7%95%8C%E3%81%8C%E5%A7%8B%E3%81%BE%E3%82%8B%E8%81%96%E6%88%A6",
+      "https://kimisentv.com",
+      "https://myanimelist.net/anime/65259",
+      "https://shikimori.one/animes/65259",
+      "https://twitter.com/kimisen_project"
+    ],
+    "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season III",
+    "type": "TV",
+    "status": "UPCOMING",
+    "animeSeason": {
+      "season": "TBA",
+      "year": null
+    },
+    "synonyms": [
+      "Kimisen",
+      "Kimisen 3",
+      "Our Last Crusade or the Rise of a New World 3rd Season",
+      "The Last Battlefield Between You and I",
+      "or Perhaps the Beginning of the World's Holy War 3rd Season",
+      "\u30ad\u30df\u3068\u50d5\u306e\u6700\u5f8c\u306e\u6226\u5834\u3001\u3042\u308b\u3044\u306f\u4e16\u754c\u304c\u59cb\u307e\u308b\u8056\u6226 Season \u2162",
+      "\u30ad\u30df\u6226 3"
+    ]
+  },
+  {
+    "sources": [
       "https://anilist.co/anime/216560",
       "https://myanimelist.net/anime/64922",
       "https://www.livechart.me/anime/13793"
@@ -4906,43 +5128,6 @@
       "\u3053\u308c\u63cf\u3044\u3066\u6b7b\u306d \u7b2c2\u671f"
     ],
     "releaseDate": "2026-09-25T18:58:36.567763000Z"
-  },
-  {
-    "sources": [
-      "https://anilist.co/anime/212960"
-    ],
-    "title": "Kounai de Ichiban Kawaikute Ichiban Oppai ga Dekakute Ichiban Okazu ni Sareteru Ichiban Sukebe na Etou-san",
-    "type": "OVA",
-    "status": "UPCOMING",
-    "animeSeason": {
-      "season": "TBA",
-      "year": null
-    },
-    "synonyms": [
-      "\u6821\u5185\u3067\u4e00\u756a\u53ef\u611b\u304f\u3066\u4e00\u756a\u304a\u3063\u3071\u3044\u304c\u30c7\u30ab\u304f\u3066\u4e00\u756a\u30aa\u30ab\u30ba\u306b\u3055\u308c\u3066\u308b\u4e00\u756a\u30b9\u30b1\u30d9\u306a\u6c5f\u85e4\u3055\u3093"
-    ]
-  },
-  {
-    "sources": [
-      "https://anidb.net/anime/20458",
-      "https://myanimelist.net/anime/65141",
-      "https://shikimori.one/animes/65141",
-      "https://v.qq.com/x/cover/mzc00200w9b1yx3/e410224vip6.html",
-      "https://www.world-art.ru/cinema/cinema.php?id=132065"
-    ],
-    "title": "Kuang Wang 2",
-    "type": "TV",
-    "status": "FINISHED",
-    "animeSeason": {
-      "season": "TBA",
-      "year": null
-    },
-    "synonyms": [
-      "Journey to the West: The Mad King 2",
-      "Kuang Wang 2nd Season",
-      "Westward: Asura 2"
-    ],
-    "releaseDate": "2026-10-22"
   },
   {
     "sources": [
@@ -5069,11 +5254,14 @@
   },
   {
     "sources": [
-      "https://anilist.co/anime/218783"
+      "https://anilist.co/anime/218783",
+      "https://myanimelist.net/anime/65261",
+      "https://shikimori.one/animes/65261",
+      "https://www.bilibili.com/zh-Hans/video/BV1m9HG6gE4g"
     ],
     "title": "Luode Dao Xuayuan",
     "type": "ONA",
-    "status": "UPCOMING",
+    "status": "ONGOING",
     "animeSeason": {
       "season": "TBA",
       "year": null
@@ -5707,6 +5895,8 @@
     "sources": [
       "https://anidb.net/anime/20413",
       "https://anilist.co/anime/217283",
+      "https://en.wikipedia.org/wiki/Phantom_Busters#Anime",
+      "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3%E3%83%88%E3%83%A0%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA#%E3%83%86%E3%83%AC%E3%83%93%E3%82%A2%E3%83%8B%E3%83%A1",
       "https://myanimelist.net/anime/65052",
       "https://phanbus-anime.jp",
       "https://shikimori.one/animes/65052",
@@ -5844,6 +6034,7 @@
   },
   {
     "sources": [
+      "https://baike.baidu.com/item/\u70ed\u8840\u8db3\u7403\u5c11\u5e74\u00b7\u82f1\u96c4\u521d\u5347",
       "https://myanimelist.net/anime/64673",
       "https://shikimori.one/animes/64673"
     ],
@@ -6284,6 +6475,7 @@
       "https://anidb.net/anime/20460",
       "https://en.wikipedia.org/wiki/The_Boxer_(manhwa)",
       "https://myanimelist.net/anime/65144",
+      "https://namu.wiki/w/\ub354 \ubcf5\uc11c(\uc6f9\ud230)/\uc560\ub2c8\uba54\uc774\uc158",
       "https://shikimori.one/animes/65144",
       "https://www.animenewsnetwork.com/encyclopedia/anime.php?id=40635",
       "https://www.livechart.me/anime/13857",
@@ -6624,6 +6816,20 @@
     "title": "Xiao Zhu Pei Qi: Wanmei Jiaqi",
     "type": "TV",
     "status": "FINISHED",
+    "animeSeason": {
+      "season": "TBA",
+      "year": null
+    },
+    "synonyms": []
+  },
+  {
+    "sources": [
+      "https://myanimelist.net/anime/65286",
+      "https://shikimori.one/animes/65286"
+    ],
+    "title": "Yankee Hamster!",
+    "type": "TV",
+    "status": "ONGOING",
     "animeSeason": {
       "season": "TBA",
       "year": null
